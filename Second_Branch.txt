@@ -1,0 +1,1 @@
+I cannot create a new branch without having at least one commit on the branch main, because, as we know a git branch is basically a pointer to a specific commit. If the repository has no commit yet, then there's nothing for git to point to. So it can't create a new branch
